@@ -28,7 +28,9 @@ This project focuses on performing **Big Data Analysis** on a large dataset usin
  1️⃣ Install Dependencies  
 
 pip install pyspark dask pandas matplotlib seaborn
- 2️⃣ Clone This Repository  
+
+
+2️⃣ Clone This Repository  
 git clone https://github.com/manjarisaxena/big-data-analysis.git
 cd big-data-analysis
 
