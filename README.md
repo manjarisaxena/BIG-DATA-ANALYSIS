@@ -1,4 +1,4 @@
-# 🚀 Big Data Analysis using PySpark & Dask
+# 🚀 Big Data Analysis using PySpark 
 Internship Task-1 | CodTech
 
 ## 📖 Project Overview
